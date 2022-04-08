@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="180" viewBox="0 0 180 180">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2a2e58;
+      }
+
+      .cls-2 {
+        fill: #00ffe5;
+      }
+
+      .cls-3 {
+        fill: #0cec98;
+      }
+    </style>
+  </defs>
+  <g id="Fevicon-Icon" transform="translate(-373 -3406)">
+    <rect id="Rectangle_16" data-name="Rectangle 16" class="cls-1" width="131" height="180" transform="translate(373 3406)"/>
+    <g id="Group_59" data-name="Group 59" transform="translate(-900 -135)">
+      <rect id="Icon-01" class="cls-2" width="80" height="80" transform="translate(1273 3541)"/>
+      <rect id="Rectangle_13" data-name="Rectangle 13" class="cls-3" width="80" height="80" transform="translate(1373 3541)"/>
+      <rect id="Rectangle_13-2" data-name="Rectangle 13" class="cls-3" width="80" height="80" transform="translate(1273 3641)"/>
+      <rect id="Rectangle_13-3" data-name="Rectangle 13" class="cls-2" width="80" height="80" transform="translate(1373 3641)"/>
+    </g>
+  </g>
+</svg>
